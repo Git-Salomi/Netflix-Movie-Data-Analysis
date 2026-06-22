@@ -9,7 +9,7 @@ To explore a dataset of movies and uncover patterns in genre popularity, audienc
 - Which movie got the highest popularity? What's its genre?
 - Which movie got the lowest popularity? What's its genre?
 - Which year has the most filmed movies?
-- Notebook <a href="https://github.com/Git-Salomi/Netflix-Movie-Data-Analysis/blob/main/Netflix_Movie_Data_Analysis.ipynb">View Notebook</a>
+- Notebook <a href="https://github.com/Git-Salomi/Netflix-Movie-Data-Analysis/blob/main/Movie%20Data%20Analysis%20Netflix.ipynb">View Notebook</a>
 ## Process
 - Verified data for missing values and duplicates (none found).
 - Converted Release_Date to datetime and extracted release year.
